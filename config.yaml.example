@@ -1,0 +1,4 @@
+client_id: Consumer key
+client_secret: Consumer secret
+redirect_uri: https://oauthdebugger.com/debug
+test: true
